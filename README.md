@@ -6,7 +6,7 @@ for use with Gmail.
 Example Usage:
 ```hcl
 module "gmail" {
-  source = "source = "truemark/route53-gmail/aws"
+  source = "truemark/route53-gmail/aws"
   zone_name = "example.com"
 }
 ``` 
